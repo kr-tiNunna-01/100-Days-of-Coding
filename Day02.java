@@ -1,6 +1,6 @@
 public class Day02 {
     public static void main(String[] args) {
-
+ 
         // println()
         System.out.println("=== PROFIL MAHASISWA ===");
         System.out.println("Nama : Unna");
