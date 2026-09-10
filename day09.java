@@ -1,4 +1,4 @@
-public class Day09_Constanta {
+public class Day09 {
     public static void main(String[] args) {
 
         final String Kristin = "Satu-satunya";
